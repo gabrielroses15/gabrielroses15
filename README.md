@@ -2,7 +2,7 @@
 ### <div align="center">Olá, me chamo Gabriel e sou Desenvolvedor de Software.</div>  
   
 
-- 🔭 Desenvolvedor de software full-stack, com experiência em Java, Spring Boot, PHP, Laravel, Javascript, Angular, React, TailwindCSS e MySQL.
+- 🔭 Desenvolvedor de software full-stack, com experiência em Java, Javascript, Angular, React, TailwindCSS e MySQL.
 
 - 📔 Segurança Cibernética, Anhanguera
 
@@ -11,8 +11,6 @@
 
 ## Minhas habilidades 
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -35,15 +33,12 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
+  
 ### DevOps  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 </table>  
-
 
 ## Contato
 <div align="center">
@@ -58,9 +53,7 @@
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gabrielroses15&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
@@ -74,8 +67,6 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=wu1etq3sun5lvx61f6a1tte4j&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=00ccff" /></div>  
 
 <br/>  
-
-  
 
 <br/>   -->
 
