@@ -2,7 +2,7 @@
 ### <div align="center">Olá, me chamo Gabriel e sou Desenvolvedor de Software.</div>  
   
 
-- 🔭 Desenvolvedor de software full-stack, com experiência em Java, Javascript, Angular, React, TailwindCSS e MySQL.
+- 🔭 Desenvolvedor de software full-stack, com experiência em Java, Javascript, Angular, TailwindCSS e MySQL.
 
 - 📔 Segurança Cibernética, Anhanguera
 
