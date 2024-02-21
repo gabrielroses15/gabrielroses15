@@ -6,6 +6,7 @@
 
 - 📔 Segurança Cibernética, Anhanguera
 
+- 🌐 Inglês - Intermediário
 <br/>  
 
 
