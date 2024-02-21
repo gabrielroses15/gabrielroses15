@@ -2,7 +2,7 @@
 ### <div align="center">Olá, me chamo Gabriel e sou Desenvolvedor de Software.</div>  
   
 
-- 🔭 Desenvolvedor de software full-stack, com experiência em Angular e TypScript.
+- 🔭 Desenvolvedor de software Front-end, com experiência em Angular e TypScript.
 
 - 📔 Segurança Cibernética, Anhanguera
 
